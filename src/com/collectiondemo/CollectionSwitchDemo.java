@@ -6,6 +6,7 @@ import java.util.Scanner;
 public class CollectionSwitchDemo {
 public static void main(String[] args) {
 	CollectionAssingment();
+	
 	System.out.println("EOD");
 	
 	
