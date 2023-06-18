@@ -9,6 +9,7 @@ public static void main(String[] args) {
 	System.out.println("EOD");
 	
 	
+	
 }
 
 static void CollectionAssingment() {
